@@ -1,0 +1,15 @@
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+main img {
+    width: 90%;
+}
+
+a {
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20pt;
+}
