@@ -1,0 +1,39 @@
+main {
+    display:flex;
+    flex-direction: row;
+    width: 100%;
+    height: 90%;
+    font-size: 25pt;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    height: 100%;
+}
+
+#accountlogin {
+    width: 200;
+    padding: 5px;
+}
+
+#accountlogin input {
+    height: 25pt;
+}
+
+button {
+    height: 25pt;
+}
+
+.frontPageContent {
+    display: flex;
+    height: 50%;
+    align-items: center;
+    justify-content: center;
+}
+
+.frontPageContent img {
+    height: 45%;
+    padding: 10px;
+}
